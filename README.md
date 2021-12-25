@@ -1,1 +1,1 @@
-# mortgages
+Final class project to predict the net loss on a mortgage loan, using public Fannie Mae data from 1991 - 2021 (a gigantic, messy dataset). Started code provided by the professor, a group effort to finalize. We optimized and ensembled a decision tree, random forest, and boosted tree while also attempting to correct for the 2008 recession.
